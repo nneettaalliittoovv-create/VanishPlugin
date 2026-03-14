@@ -1,0 +1,10 @@
+name: VanishPlugin
+version: 1.0.0
+main: com.vanish.VanishPlugin
+description: A vanish plugin that hides players from the server
+commands:
+  vanish:
+    description: Toggle vanish mode
+    usage: /vanish
+    aliases:
+      - v
